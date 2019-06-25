@@ -1,2 +1,2 @@
 # Javascript-Helper
-Exemplos de boas praticas do Javascript moderno
+Funcionalidades do JavaScript moderno. Feito junto ao Professor Marco Bruno do curso da CollabCode no youtube.
