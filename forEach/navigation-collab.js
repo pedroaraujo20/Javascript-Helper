@@ -7,7 +7,7 @@ const $items = $navigationCollab.querySelectorAll('.item');
 $list.addEventListener("click", event => {
     event.preventDefault();
     const $target = event.target;
-    if($target.tagName === 'A') {
+    if($target.tagName === 'A') { //poderia usar $target.classList.contains('action')
         console.log("Foi", $target.textContent);
     }
     
